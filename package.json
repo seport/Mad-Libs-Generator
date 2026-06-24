@@ -1,0 +1,25 @@
+{
+  "name": "mad-libs-generator",
+  "version": "1.0.0",
+  "description": "This is a simple Mad Libs HTML generator that I made for Fanimad Libs using Angular.",
+  "main": "js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seport/Mad-Libs-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/seport/Mad-Libs-Generator/issues"
+  },
+  "homepage": "https://github.com/seport/Mad-Libs-Generator#readme",
+  "dependencies": {
+    "angular": "^1.4.8",
+    "angular-sanitize": "^1.5.0-beta.2"
+  }
+}
