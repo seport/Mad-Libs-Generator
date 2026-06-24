@@ -1,6 +1,8 @@
 # Mad Libs Generator
 This is a simple Mad Libs HTML generator that I made for Fanimad Libs using Angular.
 
+[Click here to try it live!](https://seport.github.io/Mad-Libs-Generator/)
+
 ![example](http://i.imgur.com/BDeIxWi.png)
 
 **Q: What is Fanimad Libs?**
